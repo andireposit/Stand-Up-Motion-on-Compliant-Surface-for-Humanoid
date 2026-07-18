@@ -405,17 +405,6 @@ The current results are limited to simulation. Physical validation and improved 
 
 A BibTeX entry can be added or updated after the final publication details are available:
 
-```bibtex
-@inproceedings{kushwah2026demonstration,
-  title     = {Demonstration-Guided Humanoid Stand-Up on an Emulated Deformable Surface},
-  author    = {Kushwah, Aniruddh and Ashtekar, Vyankatesh and Dutta, Ashish},
-  booktitle = {Proceedings of ICRM 2026},
-  year      = {2026}
-}
-```
-
-Please update the venue name, page numbers, DOI, and publication status to match the final published version.
-
 ## Git LFS
 
 Recommended tracking rules:
