@@ -1,0 +1,12 @@
+# Core numerical and data-processing libraries
+numpy>=1.26,<3.0
+pandas>=2.1,<3.0
+scipy>=1.11,<2.0
+
+# Reinforcement-learning environment and policy runtime
+gymnasium>=0.29.1,<2.0
+stable-baselines3>=2.3,<3.0
+torch>=2.3
+
+# MuJoCo simulator and passive viewer
+mujoco>=3.1,<4.0
