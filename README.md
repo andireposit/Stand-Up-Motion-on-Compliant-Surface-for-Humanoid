@@ -47,8 +47,8 @@ The released evaluation script loads one trained policy and reproduces the stand
 │   └── standup_policy.mp4
 │
 ├── model/
-│   ├── g1_fallen_stand_soft_ground_74000000_steps.zip
-│   └── g1_fallen_stand_soft_ground_vecnormalize_74000000_steps.pkl
+│   ├── g1_fallen_stand_soft_ground.zip
+│   └── g1_fallen_stand_soft_ground_vecnormalize.pkl
 │
 ├── .gitattributes
 ├── LICENSE
