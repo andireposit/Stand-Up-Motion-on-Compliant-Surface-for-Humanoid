@@ -233,12 +233,12 @@ CSV_PATH = "stand_up_lying_R_002__A475_new.csv"
 
 MODEL_PATH = (
     "model/"
-    "g1_fallen_stand_soft_ground_74000000_steps.zip"
+    "g1_fallen_stand_soft_ground.zip"
 )
 
 VECNORM_PATH = (
     "model/"
-    "g1_fallen_stand_soft_ground_vecnormalize_74000000_steps.pkl"
+    "g1_fallen_stand_soft_ground_vecnormalize.pkl"
 )
 ```
 
