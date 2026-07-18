@@ -30,23 +30,9 @@ The released evaluation script loads one trained policy and reproduces the stand
 
 **Figure 2.** Sequential snapshots of the Unitree G1 stand-up policy in the MuJoCo simulation environment.
 
-The image above should be stored at:
-
-```text
-media/figure2.png
-```
-
 ## Supplementary video
 
-[▶ Watch the stand-up policy evaluation video](media/standup_policy.mp4)
-
-The video should be stored at:
-
-```text
-media/standup_policy.mp4
-```
-
-GitHub does not consistently render repository-hosted MP4 files directly inside README pages. The link above opens or downloads the video depending on the browser. A GIF preview can also be added later for inline playback.
+[▶ Watch the stand-up policy evaluation video](https://youtu.be/c04fnMCDdd8?si=WEkKwNhVSA3PFn5V)
 
 ## Repository structure
 
