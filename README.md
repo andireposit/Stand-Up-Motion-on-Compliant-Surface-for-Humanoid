@@ -1,4 +1,4 @@
-# Unitree G1 Fallen-to-Stand Policy Evaluation
+# Unitree G1 Fallen-to-Stand Policy Evaluation on Compliant Surface
 
 This repository provides a complete evaluation and visualization setup for a trained **Unitree G1 fallen-to-stand policy**.
 
